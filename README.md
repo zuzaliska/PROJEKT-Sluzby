@@ -14,13 +14,13 @@ Tentokrát budeš mít jako jediný podklad pro zadání grafický návrh vyexpo
 
 ![Ukázka výsledku](ukazka-vysledku.jpg)
 
-
 ## Cíl úkolu
 
 Cílem projektu je procvičit si použití různých technik:
+
 - **Vytvoření stránky z nuly**
   - tentokrát nemáš připravený žádný kód
-  - udělej si klon repozitáře a v něm si sma vytvoř HTML a CSS soubor, připoj písma, stáhni obrázky
+  - udělej si klon repozitáře a v něm si sama vytvoř HTML a CSS soubor, připoj písma, stáhni obrázky
 - **Práce s grafickým návrhem**
   - v tomto projektu máš jako podklady [grafický návrh vyexportovaný z Adobe XD](https://xd.adobe.com/view/6fa92a1c-946c-4745-9c2e-2820ef34d36d-3afa/grid/)
   - v návrhu si sama změříš potřebné rozměry, vyexportuješ si z něho obrázky, zjistíš barvy a použitá písma
@@ -30,10 +30,9 @@ Cílem projektu je procvičit si použití různých technik:
   - stránka je plně responzivní - má mobilní, tabletovou i počítačovou verzi
   - všechny responzivní varianty jsou obsažené v grafickém návrhu
 - **Flexbox**
-  - každé sekce na stránce obsahuje prvky poskládané vedle sebe - ideální práce pro flexbox
+  - každá sekce na stránce obsahuje prvky poskládané vedle sebe - ideální práce pro flexbox
   - nezapomeň, že flexboxy se mohou do sebe vnořovat
   - často je jednodušší udělat jeden flexbox, který dá vedle sebe levou a pravou polovinu každé sekce, a potom uvnitř udělat druhý flexbox, který vedle sebe dává kartičky s jednotlivými službami
-
 
 ## Grafické zadání
 
@@ -44,7 +43,6 @@ Pro případ, že bys chtěla pracovat offline nebo si chtěla s návrhem hrát,
 Grafický návrh obsahuje 3 plátna s rozložením webu pro mobil, tablet a počítač, 1 plátno s návodem na práci s návrhem, a 1 plátno s wireframem pro počítačovou verzi.
 
 Podívej se na [krátké YouTube video (20 min)](https://youtu.be/1ih_ZYdmNPU), kde ti ukážeme, jak s návrhem pracovat.
-
 
 ## Jak si stáhnout podklady
 
